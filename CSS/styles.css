@@ -1,0 +1,44 @@
+body{
+background-color: #E7E7E7;
+}
+#maincontainer{
+
+
+}
+
+.header{
+	background-color: #9D9D9D;
+
+	padding-left: 5px;
+	padding-top: 5px;
+
+	width:100%;
+	height: 80px;
+	
+}
+.logo {
+    width: 270px;
+    height: 80px;
+    float: left;
+}
+
+/* resize images */
+.logo img {
+    width: 150%;
+    height: auto;
+}
+
+.mediabuttons{
+	float:right;
+	width: 40px;
+	height:40px;
+	padding-top: 15px;
+	padding-right: 10px;
+	
+
+	
+}
+.mediabuttons img {
+	width:100%;
+	height:auto;
+}
